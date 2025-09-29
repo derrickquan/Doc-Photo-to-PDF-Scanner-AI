@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Doc Scanner AI",
+  "description": "An application to clean document images using AI and convert them into a downloadable PDF file. Users can select images from their Google Photos, upload them, and let the AI enhance them to look like they were scanned.",
+  "requestFramePermissions": []
+}
